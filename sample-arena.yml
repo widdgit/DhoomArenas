@@ -1,0 +1,17 @@
+# Sample Arena Configuration
+name: sample
+maxPlayers: 4
+waitTimeSeconds: 5
+
+# Locations will be serialized by Bukkit
+# These are just placeholders for example
+# pos1: world,100,64,100,0,0
+# pos2: world,120,64,120,0,0
+# center: world,110,64,110,0,0
+
+# Spawn points example
+# spawnPoints:
+#   1: world,105,64,105,0,0
+#   2: world,115,64,105,0,0
+#   3: world,105,64,115,0,0
+#   4: world,115,64,115,0,0

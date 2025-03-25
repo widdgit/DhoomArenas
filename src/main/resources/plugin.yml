@@ -1,0 +1,12 @@
+name: DhoomArenas
+version: '${version}'
+main: me.notjoshx.dhoomarenas.DhoomArenas
+api-version: '1.20'
+authors: [SoloWiper]
+description: '${description}'
+commands:
+  dhoomarenas:
+    description: Main command for DhoomArenas plugin
+    aliases: [da, darenas, arenas, arenaadmin]
+    usage: /dhoomarenas <create|delete|setup|tp> [args...]
+    permission: dhoomarenas.admin
